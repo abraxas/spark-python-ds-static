@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-python-ds-static">spark-python-ds-static</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-python-ds-static"><strong>https://abraxaslabs.tech/research/spark-python-ds-static</strong></a>
+</p>
+
 
 # spark-python-ds-static
 
